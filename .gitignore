@@ -1,0 +1,4 @@
+/venv
+/brain_mri
+/__pycache__
+*.pt
